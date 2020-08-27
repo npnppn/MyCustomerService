@@ -1,5 +1,6 @@
 # MyCustomerService
 Customer Service Page using MySQL &amp; Python
+
 We made Online game company page referring to Riot Games
 
 # Display
